@@ -1,3 +1,12 @@
 # applied-science-with-akash
 
-Implementing various business use cases
+## Business
+Product Sense
+Case Studies
+
+## Applied Case Studies (with source codes)
+Tabular
+Text
+Images
+Speech
+Multimodal
