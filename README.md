@@ -1,2 +1,3 @@
 # applied-science-with-akash
-Research paper implementation
+
+Implementing various business use cases
