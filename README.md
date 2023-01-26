@@ -16,6 +16,8 @@ This repo is a summary and one stop links for all implementations.
 
 ## Image
 
+- Text Recognization of Hand Written Paragraphs
+
 ## Multimodal
 
 ## Citing
