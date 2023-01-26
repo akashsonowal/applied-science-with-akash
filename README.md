@@ -18,11 +18,11 @@ Multimodal
 ## Citing
 
 ```
-@misc{tuningplaybookgithub,
-  author = {Varun Godbole and George E. Dahl and Justin Gilmer and Christopher J. Shallue and Zachary Nado},
-  title = {Deep Learning Tuning Playbook},
-  url = {http://github.com/google/tuning_playbook},
+@misc{appliedsciencewithakash,
+  author = {Akash Sonowal},
+  title = {Applied Science with Akash},
+  url = {https://github.com/akashsonowal/applied-science-with-akash},
   year = {2023},
-  note = {Version 1.0}
+  note = "Version 1"
 }
 ```
