@@ -1,4 +1,8 @@
-## Applied Case Studies (with source codes)
+# Applied Science Case Studies Implementation Resources
+
+## Tabular
+
+- Interpolating Neural Networks in Asset Pricing
 
 This repo is a summary and one stop links for all implementations in this repo.
 
