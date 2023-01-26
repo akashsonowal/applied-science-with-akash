@@ -1,23 +1,22 @@
-# Applied Science Case Studies Implementation Resources
+# Applied Science Case Studies (Implementation Vault)
+
+This repo is a summary and one stop links for all implementations.
 
 ## Tabular
 
 - Interpolating Neural Networks in Asset Pricing
 
-This repo is a summary and one stop links for all implementations in this repo.
-
-Tabular
-Text
-Images
-Speech
-Multimodal
-
 ## Time Series
 
 - Spatio-Temporal Graph Attention Networks for Traffic Forecasting [[Code](https://github.com/akashsonowal/traffic-forecasting)]
 
+## Text
 
+## Speech
 
+## Image
+
+## Multimodal
 
 ## Citing
 
