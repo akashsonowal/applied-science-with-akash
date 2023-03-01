@@ -15,6 +15,8 @@ This repo is a summary and one stop links for all implementations.
 
 ## Natural Language Processing
 - Conversational
+  - Chatbot
+  - Voice Assistants
 - Fill-Mask
 - Question Answering
 - Sentence Similarity
