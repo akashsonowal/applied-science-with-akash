@@ -23,6 +23,8 @@ This repo is a summary and one stop links for all implementations.
 - Table Question Answering
 - Text Classification
 - Text Generation
+  - Code Generation
+  - Stories Generation
 - Token Classification
 - Translation
 - Zero-Shot Classification
