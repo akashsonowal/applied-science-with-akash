@@ -34,7 +34,7 @@ This repo is a summary and one stop links for all implementations.
 - Tabular Classfication
 - Tabular Regression
   - Interpolating Neural Networks in Asset Pricing
-- Graph Time Series
+- Time Series
   -  Spatio-Temporal Graph Attention Networks for Traffic Forecasting [[Code](https://github.com/akashsonowal/traffic-forecasting)]
 
 ## Multimodal
