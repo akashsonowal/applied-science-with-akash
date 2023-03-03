@@ -12,6 +12,9 @@ This repo is a summary and one stop links for all implementations.
 - Video Classification
 - Unconditional Image Generation
 - Zero-Shot Image Generation
+- Outpainting
+- Inpainting
+- Image Variations
 
 ## Natural Language Processing
 - Conversational
@@ -20,6 +23,7 @@ This repo is a summary and one stop links for all implementations.
 - Fill-Mask
 - Question Answering
 - Sentence Similarity
+- Summarization
 - Table Question Answering
 - Text Classification
 - Text Generation
@@ -33,6 +37,8 @@ This repo is a summary and one stop links for all implementations.
 - Audio Classification
 - Audio-to-Audio
 - Automatic Speech Recognition
+  - SoTA: Whisper
+  - Case Studies:
 
 ## Tabular
 - Tabular Classfication
