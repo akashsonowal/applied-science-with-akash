@@ -37,6 +37,10 @@ This repo is a summary and one stop links for all implementations.
 - Audio Classification
 - Audio-to-Audio
 - Automatic Speech Recognition
+  - English Transcription
+  - Non-English Transcription
+  - Any-to-English speech translation
+  - No speech
   - SoTA: Whisper
   - Case Studies:
 
