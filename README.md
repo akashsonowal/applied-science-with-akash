@@ -47,10 +47,7 @@ This repo is a summary and one stop links for all implementations.
 - Tabular Classfication
 - Tabular Regression
   - Interpolating Neural Networks in Asset Pricing
-- Time Series
-  - Graph
-    - Spatio-Temporal Graph Attention Networks for Traffic Forecasting [[Code](https://github.com/akashsonowal/traffic-forecasting)]
-
+ 
 ## Multimodal
 - Document Question Answering
 - Feature Extraction
@@ -58,9 +55,13 @@ This repo is a summary and one stop links for all implementations.
   -  Text Recognization of Hand Written Paragraphs
 - Text to Image
 - Visual Question Answering
+- Graph Machine Learning
+  - Spatio-Temporal Graph Attention Networks for Traffic Forecasting [[Code](https://github.com/akashsonowal/traffic-forecasting)]
+
 
 ## Reinforcement Learning
 - Reinforcement Learning
+- Robotics
 
 ## Citing
 
