@@ -42,6 +42,7 @@ This repo is a summary and one stop links for all implementations.
   - Any-to-English speech translation
   - No speech
   - SoTA: Whisper
+- Voice Activity Detection
 
 ## Tabular
 - Tabular Classfication
